@@ -6,7 +6,7 @@
 
 
 
-**closed alerts.**
+Answer : **closed alerts.**
 
 
 
@@ -18,7 +18,7 @@ What source IP address entered the URL 'https://github.com/apache/flink/compare'
 
 
 
-**172.16.17.54**
+Answer :**172.16.17.54**
 
 
 
@@ -30,7 +30,7 @@ Answer Format: logtype
 
 
 
-**dns**
+Answer :**dns**
 
 
 
@@ -44,7 +44,7 @@ What is the hostname of the device where the “nmap” file with a hash value o
 
 
 
-**EricProd**
+Answer :**EricProd**
 
 
 
@@ -52,7 +52,7 @@ A "Ps1.hta" file was executed on a device with the hostname "Roberto". What is t
 
 
 
-**C:/Windows/System32/mshta.exe C:/Users/roberto/Desktop/Ps1.hta**
+Answer :**C:/Windows/System32/mshta.exe C:/Users/roberto/Desktop/Ps1.hta**
 
 
 
@@ -72,7 +72,7 @@ What is the data source of the "e1def6e8ab4b5bcb650037df234e2973" hash on the th
 
 
 
-**AbuseCH**
+Answer :**AbuseCH**
 
 
 
@@ -81,6 +81,7 @@ Common Mistakes made by SOC Analysts
 -------------------------------------
 
 No Answer Needed
+
 
 
 
